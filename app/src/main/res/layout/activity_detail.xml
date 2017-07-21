@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<RelativeLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/profile_ProgressBar_Container"
+        android:visibility="gone"
+        >
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:orientation="vertical"       android:id="@+id/profile_content_Container"
+        >
+        <com.github.florent37.diagonallayout.DiagonalLayout
+            android:id="@+id/diagonal"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:elevation="10dp"
+            android:layout_alignParentTop="true"
+
+            >
+            <com.flaviofaria.kenburnsview.KenBurnsView
+                android:id="@+id/kingimg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/a1"
+                />
+
+        </com.github.florent37.diagonallayout.DiagonalLayout>
+
+
+        <TextView
+            android:id="@+id/desctxt"
+            android:textSize="16sp"
+            android:background="#bde6db"
+            android:gravity="left|center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            />
+        <com.getbase.floatingactionbutton.FloatingActionsMenu
+            android:id="@+id/fabBtn_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_expandDirection="up"
+            app:fab_labelsPosition="left"
+            app:fab_addButtonStrokeVisible="false"
+            app:fab_addButtonSize="mini"
+            android:layout_gravity="bottom|right"
+
+
+            >
+
+        </com.getbase.floatingactionbutton.FloatingActionsMenu>
+        <!--<Button-->
+            <!--android:id="@+id/soundbtn"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Sound"-->
+            <!--android:theme="@style/PrimaryButton"-->
+            <!--/>-->
+    </LinearLayout>
+
+</RelativeLayout>
+</ScrollView>

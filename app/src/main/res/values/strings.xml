@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Phra3na</string>
+    <string name="title_activity_qrscanner">QRscanner</string>
+
+    <string-array name="families_names">
+        <item>الاسرة الاولى</item>
+        <item>الاسرة الثانية</item>
+        <item>الاسرة الثالثة</item>
+        <item>الاسرة الرابعة</item>
+        <item>الاسرة الخامسة</item>
+        <item>الاسرة السادسة</item>
+        <item>الاسرة السابعة</item>
+        <item>الاسرة الثامنة</item>
+        <item>الاسرة التاسعة</item>
+        <item>الاسرة العاشرة</item>
+        <item>الاسرة الحادية عشر</item>
+        <item>الاسرة الثانية عشر</item>
+        <item>الاسرة الثالثة عشر</item>
+        <item>الاسرة الرابعة عشر</item>
+        <item>الاسرة الخامسةعشر</item>
+        <item> الاسرة السادسة عشر</item>
+        <item>الاسرة السابعة عشر</item>
+        <item> الاسرة الثامنة عشر</item>
+        <item>الاسرة التاسعة عشر</item>
+        <item>الاسرة العشرين</item>
+
+    </string-array>
+    <string-array name="first">
+        <item> الملك اتى الاول (عحا )</item>
+        <item> الملك اتى الثانى(جر ) </item>
+        <item> الملك اتى الثالث(جت - ارجى) </item>
+        <item> الملك قاع منى(قاعا)  </item>
+
+    </string-array>
+    <string name="first1a">كان حوراحا ابن الملك مينا وهو الذى خلفه فى حكم مصر يعتقد البعض انه لم يحكم كثيرا هذة البلاد ولكنه اصلح اشياء كثيرة فى مصر وفى عهده حاول النوسن ان يحتلو مصر وايضا اللسن ولكنه تصدى لهم واسس جيش مصرى نظامى وتميز عصره بالتقدم الفنى الواضح ، وذلك بسبب اهتمامه بالفنانين والنحاتين ماديا ومعنويا .وهذا يدل على حالة الرخاء التى عاصرت هذا الملك.</string>
+    <string name="first1e">Huraha was the son of King Mina, who succeeded him in the rule of Egypt. Some believe that he did not rule this country very much, but he repaired many things in Egypt. In his rule, Al-Nawsen tried to occupy Egypt as well as Al-lasn but he resisted them and founded a regular Egyptian army. Artists and sculptors materially and morally. This indicates the state of prosperity that this king has undergone. </string>
+    <!--<string name="first1f">Était Horaha le fils du roi Mena, qui lui a succédé à la règle de l'Egypte, certains croient qu'il n'a pas exclu une grande partie de ce pays, mais il répara beaucoup de choses en Egypte, et son règne a essayé de Alnuson que Ihthelo Egypte et aussi Allsn, mais ils se trouvaient et les fondements de Nizami armée égyptienne et l'excellence de son temps progressent évidemment technique, en raison de son intérêt artistes et sculpteurs, matériellement et moralement. ce qui indique l'état de la prospérité que ce roi a vécu. </string>-->
+    <string name="first2a">عثر له على بطاقة صغيرة من العاج تسجل زيارة قام بها لمعبد مدينة سايس وقد عثر على نقش محفور فى قمة جبل الشيخ سليمان عند مدخل الشلال الثانى يقص علينا حملته الى بلاد النوبة والتى وصل فيها الى الشلال الثانى وقد جاء على حجر بالرمو انه حارب جماعة من الاسيويين وعثر له على مقبرتين احدهما فى سقارة والأخرى فى ابيدوس وقد عثر فى مقبرة سقارة على لوحة من المرمر عليها منظر وهو يقوم بتأديب الأسرى الليبين .
+وعثر أيضا على اسم الملك على سدادة احدى الأوانى الفخارية وهكذا نجح الملك جر فيما يبدو فى الحد من هجمات الليبين فى الغرب والأسيويين فى الشرق والنوبيين فى الجنوب , ويدل ذلك على اهتمام ملوك الاسرة الاولى بتامين حدود مصر الجنوبية ووصولهم الى المنطقة الواقعة جنوبى الشلال الأول لأجل التجارة مع السودان
+</string>
+    <string name="first2e">He found a small ivory card that recorded a visit to the temple of the city of Sais. A engraved inscription was found at the summit of Mount Solomon at the entrance of the second waterfall. He cut his campaign to the land of Nubia, where he reached the second waterfall. It came to stone in Palermo that he fought a group of Asians He found two tombs, one in Saqqara and the other in Abydos.
+The king was also found to have stabbed one of the pottery vessels. Thus, the king apparently succeeded in curbing the attacks of the Libyans in the west and the Asians in the east and the Nubians in the south. This indicates the interest of the kings of the first family to secure the southern border of Egypt and their arrival in the area south of the first waterfall for trade With Sudan
+</string>
+    <!--<string name="first2f">Je l'ai trouvé sur une petite carte d'ivoire enregistré une visite au Temple de la ville Saïs a été trouvé inscription gravée au mont Sheikh Suleiman haut à la cascade la deuxième entrée nous dit sa campagne au changement du pays, où est arrivé à la cascade seconde venue sur la pierre de Palerme, il a combattu un groupe d'Asiatiques et l'a trouvé sur les deux cimetières, l'un à Saqqara et l'autre à Abydos a été trouvé dans le cimetière Saqqara sur la planche de marbre en vue de la discipline des prisonniers Libyens.-->
+    <!--On trouve également le nom du roi pour sceller une poterie et de sorte que le roi a réussi à traîner apparemment dans la lutte contre les attaques libyennes dans l'Ouest et les Asiatiques à l'est et Nubiens dans le sud, et montre que l'attention des rois de la première famille fixé les frontières du sud de l'Egypte et leur arrivée dans la zone au sud de la première chute d'eau pour le commerce avec le Soudan</string>-->
+    <string name="first3a">نرى ان سياسة التوسع التجارى وربما أيضا استغلال المناجم لم تقل وأن اولئك الملوك اهتموا بدروب الصحراء وتامين التجارة فيها اذ عثر على اسم هذا الملك مكتوبا على صخور احد تلك الدروب التى كانت تربط بين ادفو وبين البحر الاحمر وهو الدرب المار بوادى مياه والذى ظل مستخدما فى جميع العصور سواء للتجارة او للحصول على بعض معادن تلك المنطقة وبخاصة الذهب . كانت مصر قد وصلت الى حد غير قليل فى مضمار التقدم فى عهد الملك ( جت ) ولو دققنا فى فحص مخلفات عصره نرى أن كثيرا منها قد بلغ فيه الاتقان حدا يجعل منها تحفا فنية مثل لوحته التى توجد الان فى متحف اللوفر بباريس وقد عثر على قبر له فى أبيدوس وعلى قبر اخر فى سقارة </string>
+    <string name="first3e">We see that the policy of commercial expansion and perhaps also exploitation of the mines did not say and that those kings interested in the desert routes and secure trade where the name of this king was written on the rocks of one of those paths that linked between Edfu and the Red Sea, which runs through the valley of water, The ages are either for trade or for getting some of the minerals of that region, especially gold. Egypt had reached quite a bit in the course of progress during the reign of King (Jet) and if we checked the examination of the remnants of his era, we see that many of them have achieved the perfection of art, such as his painting, which is now in the Louvre in Paris has been found a grave In Abidos and on another grave in Saqqara.</string>
+    <!--<string name="first3f">Nous croyons que la politique commerciale de l'expansion et peut-être aussi l'exploitation des mines n'a pas dit que les rois étaient intéressés par Routes du désert et sécuritaires où, que l'on trouve sur le nom de ce roi par écrit sur les rochers d'une de ces routes qui ont été reliant Edfou et la mer Rouge, un chemin passant par la vallée de l'eau, qui a été utilisé dans tous les âge si le commerce ou pour obtenir des métaux de cette région, en particulier l'or. L'Egypte avait atteint la limite d'un certain nombre dans le domaine du progrès sous le règne du roi (Jet) encore plus à examiner les restes de son temps, nous voyons que beaucoup d'entre eux ont atteint la fin de la perfection les rend chefs-d'œuvre artistiques comme la peinture qu'il ya maintenant au Musée du Louvre à Paris a trouvé la tombe de son à Abydos et sur une autre tombe à Saqqara</string>-->
+    <string name="first4a">هو الملك الفرعوني الأخير في الأسرة الأولى. وله معبد كبير في أبيدوس تبلغ مساحته 98.5 * 75.5 قدم أو 30 * 23 متر. وجاء في مانيتو أنه تولى الحكم لمدة 26 عاما.
+بعد عدة إكتشافات في المدافن الملكية في أم القعاب ، عثر على مقبرة له فى سقارة اكبر كثيرا من مقبرته فى أبيدوس وكتب اسمه على كثير مما بقى من محتوياتها وتمدنا نقوش تلك الاثار باسماء بعض موظفيه والوظائف التى كانوا يتولونها ونعرف من هذه الوظائف شيئا غير قليل عن تنظيم ادارة البلاد فى ذلك العهد اذ كان بعض أولئك الموظفين مشرفا على اعمال الرى أو جباية الضرائب او حفظ السجلات وغير ذلك.
+وشهد أواخر عهد هذا الملك بدء المنازعات بين أفراد البيت المالك انتهت بأعتلاء أسرة أخرى العرش
+</string>
+    <!--<string name="first4e">He is the last Pharaonic king of the First Dynasty. It has a large temple in Abydos with an area of 98.5 * 75.5 feet or 30 * 23 meters. Manito said he took power for 26 years.-->
+    <!--After several discoveries at the royal tombs in Umm al-Qa'ab, a tomb was found in Saqqara, much larger than his tomb in Abydos, and he wrote his name on many of the remains of its contents and provided us with the inscriptions of these monuments by the names of some of his employees and the jobs they were handling. The administration of the country in that era, some of those employees were responsible for irrigation, tax collection or record keeping and so on.-->
+    <!--The late reign of this king saw the beginning of disputes between the owners of the landlord ended with the ascension of another throne.-->
+    <!--</string>-->
+    <!--<string name="first4f">Le dernier roi pharaonique dans la première famille. Il a un grand temple à Abydos, une zone de 98,5 * 75,5 * 30 pieds ou 23 mètres. Selon le Manito, il a pris ses fonctions pendant 26 ans.-->
+    <!--Après plusieurs découvertes dans les tombes royales à Umm Alqaab, il trouva la tombe de lui à Saqqara beaucoup plus grand que sa tombe à Abydos et a écrit son nom sur une grande partie de ce qui restait de son contenu et nous fournit les inscriptions de ces vestiges de quelques-uns de ses collaborateurs et les fonctions qui ont été mis sur les épaules et le savoir de ces fonctions quelque chose d'un peu plus sur l'organisation l'administration du pays à cette époque, comme certains de ceux superviseur du personnel des ouvrages d'irrigation ou la perception des impôts ou la tenue des dossiers et ainsi de suite.-->
+    <!--Il a vu la fin du règne de ce roi le début des conflits entre les membres du propriétaire de la maison a pris fin avec une autre famille pour monter sur le trône.-->
+    <!--</string>-->
+
+    <string name="title_activity_sliderr">Slider</string>
+    <string name="title_activity_gallary">Gallary</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

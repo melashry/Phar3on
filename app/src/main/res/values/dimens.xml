@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fakb_margin">16dp</dimen>
+    <dimen name="faab_margin">16dp</dimen>
+</resources>

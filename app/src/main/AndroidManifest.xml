@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aya_moh.phar3on">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splach">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".QRscanner"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Scan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Detail" />
+        <activity android:name=".ListFamily"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Listmlk" />
+        <activity
+            android:name=".Slider"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Testing" />
+        <activity
+            android:name=".Gallary"
+            android:label="@string/title_activity_gallary"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
